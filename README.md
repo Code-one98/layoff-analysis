@@ -1,6 +1,7 @@
 # Layoff Analysis Project (MySQL)
 
-This project analyzes company layoff data using MySQL. It includes the raw database, data cleaning queries, and exploratory analysis.
+This project analyzes company layoff data using MySQL. It includes the raw database, data cleaning queries, and exploratory analysis
+
 ---
 ## 📂 Files
 
