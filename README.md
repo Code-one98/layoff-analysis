@@ -17,6 +17,8 @@ This project analyzes company layoff data using MySQL. It includes the raw datab
    - Queries for exploring patterns and insights in the cleaned data.  
    - Run this after completing the data cleaning stage.  
 
+---
+
 ## How to Use
 
 1. Open **MySQL Workbench** and connect to your server.  
